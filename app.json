@@ -40,11 +40,6 @@
             "description": "6545664999",
             "value": "",
             "required": true
-        },
-    "session": {
-        "description": "AQGi8fAAYanTlB5Iq6FO185vkOs7w8XLlOhUByBkLrZvTontG6VYDJzuWL2o55rIKutan4ZwE3aoaZkWsNb8x5r9D7YiQ37250uWNahJpFod1e4QoO3TLn55swMc168WiZCXYceyGzz9GVUZ4_fMrC5wKxKmMTNDH_xVTriuvAeYoeLLCD2akN5Fhng4xrBpZB7oTd9moqEPLwy9EMyxTZMiLbG1xUFKP75y20V75Sgl1NU8UoEj94yfUTqpPLfYBUH-25M6yN3KcpgyUGbGOA7RuNAOMrYNl7WBa7votEtkWeAWmV-N5OgGXHnj0-0pDg2pYC2Th1Ui_jTWiGVErLT5l1281QAAAAF9jkoYAA",
-        "value": "",
-        "required": true
     }
   }
 } 
