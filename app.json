@@ -12,32 +12,32 @@
     "website": "https://github.com/rogerpq/MOTTHON",
     "env": {
         "api_id": {
-            "description": "ايبي ايدي",
+            "description": "15078775",
             "value": "",
             "required": true
         },
         "api_hash": {
-            "description": "ايبي هاش",
+            "description": "0f98bdfe43717ab2f67dbfcea416131c",
             "value": "",
             "required": true
         },
         "DEVLOO": {
-            "description": "ايـدي الـمـطور",
+            "description": "6401444376",
             "value": "",
             "required": true
         },
         "bot_token": {
-            "description": "توكن البوت",
+            "description": "6545664999:AAFrU0aB6f77MCyF1M-nOfshwcYAxNdNDU4",
             "value": "",
             "required": true
         },
         "user_bot": {
-            "description": "يوزر البوت بدون ـ@ـ",
+            "description": "Ysjsewbot",
             "value": "",
             "required": true
         },
         "id_bot": {
-            "description": "ايدي البوت",
+            "description": "6545664999",
             "value": "",
             "required": true
         },
