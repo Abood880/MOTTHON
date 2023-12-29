@@ -12,34 +12,39 @@
     "website": "https://github.com/rogerpq/MOTTHON",
     "env": {
         "api_id": {
-            "description": "15078775",
-            "value": "",
+            "description": "ايبي ايدي",
+            "value": "27455984",
             "required": true
         },
         "api_hash": {
-            "description": "0f98bdfe43717ab2f67dbfcea416131c",
-            "value": "",
+            "description": "ايبي هاش",
+            "value": "62d5f68ce2e9189636967120220f5755",
             "required": true
         },
         "DEVLOO": {
-            "description": "6401444376",
-            "value": "",
+            "description": "ايـدي المـطـور",
+            "value": "6679605852",
             "required": true
         },
         "bot_token": {
-            "description": "6545664999:AAFrU0aB6f77MCyF1M-nOfshwcYAxNdNDU4",
-            "value": "",
+            "description": "توكن البوت",
+            "value": "6636989605:AAF1gHcQGHn_9-yxaY7pyLfJUv96nrDDPf4",
             "required": true
         },
         "user_bot": {
-            "description": "Ysjsewbot",
-            "value": "",
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "Tvvvvoh_bot",
             "required": true
         },
         "id_bot": {
-            "description": "6545664999",
-            "value": "",
+            "description": "ايدي البوت",
+            "value": "6636989605",
             "required": true
+        },
+        "session": {
+            "description": "كود تيرمكـس",
+            "value": "1BVtsOLABu2xvnwMfGNM8C2zgc0b4tHGu3o3AhKWy9V0tdA7nPbjO1y_maspizsufYhv2ozwkeNJP1aS1c8gRwW60XB5tx0gMUtC26BMrZVlD8M0in6YYYpUdMO_YjXKxchXg2wC4BUHHnkrLDmcQ690VQXXmxE0PynjKN3Pja_JWQzscvfy0IR9vFmlgZ8bA-9EYjD5At4GX2YLw1afTLkAQuEpCaoRCi_buWFF1RR6hp_FSmFcaCCyNbHEZgglJxXKcZtHYyjIKB4JmfsLOmYL_Z2ZJ55_eR6rWiD_i5Fow-FbOfVwCTas4-4XnEiCDKzlc-DczhwZt0DAfu5VFZGQF4qkpERI=",
+            "required": true
+        }
     }
-  }
-} 
+}
